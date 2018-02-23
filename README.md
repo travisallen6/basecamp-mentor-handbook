@@ -1,12 +1,12 @@
-<img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
+<img src="http://devmtnclass.s3.amazonaws.com/images/devmountain_logo_blacktext.png" width="250" align="right">
 
 #Basecamp Mentor Guide
 
 ## Overview
 
-Basecamp is DevMountain’s latest addition to our pre-course work. Basecamp is provided to students to help them set a pattern of accountability which will lead to success. Basecamp will replicate what the students will experience once they are attending DevMountain in person or online. We will cover HTML, CSS, JavaScript and even dip our toes in React and Node. We will also cover more basic things like picking a text editor and creating a usable file structure.
+ Basecamp is provided to students to help them set a pattern of accountability which will lead to success. Basecamp will replicate what the students will experience once they are attending DevMountain in person or online. We will cover HTML, CSS, JavaScript and even dip our toes in React and Node. We will also cover more basic things like picking a text editor and creating a usable file structure.
 
-As mentors to Basecamp students, you will be some of their first point-of-contact to all things at DevMountain. It is expected that you will meet with each student for 30 minutes a week for six weeks. This contact would ideally happen outside of your regular work hours but we understand that the students also have lives going on right now as well so use your best judgment when scheduling times with the students.
+As mentors to Basecamp students, you will be some of their first point-of-contact to all things at DevMountain. It is expected that you will meet with each student for 30 minutes a week for six weeks. This contact would ideally happen outside of your regular work/class.
 
 **Please keep all meetings professional**
 
@@ -14,9 +14,14 @@ As mentors to Basecamp students, you will be some of their first point-of-contac
 
 There are a number of tools you can use to meet with your students. Here is a small list of what we recommend:
 
-* [Google Hangouts](https://hangouts.google.com/)/[appear.in](https://appear.in/) for face-to-face meetings.
-* [codeshare.io](https://codeshare.io/)/[Scrimba](https://scrimba.com/)/[repl.it](https://repl.it/) for testing their learning.
-* [Calendly](https://calendly.com/) for organizing meetings with students.
+### Face-to-Face Meetings
+* [Google Hangouts](https://hangouts.google.com/)
+* [appear.in](https://appear.in/)
+### Testing student learning
+* [codeshare.io](https://codeshare.io/)
+* [repl.it](https://repl.it/)
+### Scheduling
+* [Calendly](https://calendly.com/)
 
 These are just a few that are the most popular but feel free to use other tools to run your meetings.
 
@@ -59,7 +64,7 @@ Please write complete and detailed notes. Things such as "Student is doing good"
 
 **Please also mark the dates you attempted to contact or contacted your student as this will be how we track how many meetings to pay you for**
 
-You will also be added a mentor Slack channel if you need anything from your other mentors.
+You will also be added to a mentor Slack channel if you need anything from your other mentors.
 
 ## Student progress
 
@@ -133,3 +138,16 @@ Basecamp is designed to create a solid foundation for students to become success
 **How much time do I have to complete Basecamp?**
 
 We will be giving students 6 weeks to complete Basecamp. We anticipate this will take anywhere between 40-50 hours to complete. This breaks downs to a little more than an hour per day, if the students choose to complete it that way. We will have mentors meeting with students weekly to make sure their learning is on track and set up for success once they attend DevMountain.
+
+## Mentor FAQ
+**When will I be paid for Basecamp?**
+
+Payment will be submitted for approval the Monday after the Basecamp session has ended. Once it is approved it will then be paid out the following payday.
+
+**Can I text and call my students?**
+
+Go for it. Ideally, communication will be kept through email but if they aren't responding then alternative methods are fine.
+
+**My student isn't responding to me, what should I do?**
+
+If you go more than a week without hearing from your student, please reach out to me ASAP so we can remedy the problem.
