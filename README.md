@@ -41,7 +41,7 @@ I look forward to helping you become a great developer,
 
 NAME"
 
-##Goals
+## Goals
 
 The main goals for Basecamp meetings are as follows: 
 
