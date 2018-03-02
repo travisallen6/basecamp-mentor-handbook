@@ -1,6 +1,6 @@
 <img src="http://devmtnclass.s3.amazonaws.com/images/devmountain_logo_blacktext.png" width="250" align="right">
 
-#Basecamp Mentor Guide
+# Basecamp Mentor Guide
 
 ## Overview
 
@@ -17,29 +17,20 @@ There are a number of tools you can use to meet with your students. Here is a sm
 ### Face-to-Face Meetings
 * [Google Hangouts](https://hangouts.google.com/)
 * [appear.in](https://appear.in/)
+
 ### Testing student learning
 * [codeshare.io](https://codeshare.io/)
 * [repl.it](https://repl.it/)
-### Scheduling
-* [Calendly](https://calendly.com/)
+
+### Shifts
+You can view a template of the Basecamp shift signup [here](https://docs.google.com/spreadsheets/d/1cqDOEMvpt6gT-9C3wCoOQ7Rs1CK0yT6_sXsBs1CQZjM/edit?usp=sharing). Shifts are twice a day Monday - Friday from 9A-12P and 2P-5P and once on Saturday from 11A-P.
+
+If for any reason you are unable to make your shift, please let Bryan Smith (@bryan_smith on slack) know immediately.
+
+### Scheduling Meetings
+* A Basecamp Calendar can be viewed [here](https://calendar.google.com/calendar/b/3?cid=YmFzZWNhbXBAZGV2bW91bnRhLmlu). Students will sign up up for Basecamp meetings at this [Calendly link](https://calendly.com/basecamp-meeting/basecamp-one-on-one) and the meeting will then show on the shared Calendar
 
 These are just a few that are the most popular but feel free to use other tools to run your meetings.
-
-## Student Introductions
-
-Feel free to introduce yourself to your students as you would like but an great example intro email would look like this:
-
-**Subject**: DevMountain Basecamp Mentor
-
-"Hello,
-
-My name is NAME and I will be your mentor for the next 6 weeks during your time in Basecamp. Basecamp is designed to get you ready to be successful during your time in-class at DevMountain.
-
-Lets schedule a meeting to get to know each other and I can answer any questions you have about Basecamp and DevMountain. Here is a link to my calendar. **As a reminder, these weekly meetings are mandatory.**
-
-I look forward to helping you become a great developer,
-
-NAME"
 
 ## Goals
 
@@ -53,18 +44,23 @@ The main goals for Basecamp meetings are as follows:
 
 ## Payment
 
-You will be compensated for your meetings with students. Each meeting you will be paid $16.50. This equates to about $100 per student for the six weeks. These meetings should be on average 30 minutes. If meetings are continually running longer, please let me know.
+You will be compensated for your meetings with students. Mentors will be paid at their regular hourly rate as long as the time they are working is Monday - Friay, 9-5. Outside hours will be paid out at the end of the month
 
-It is expected that you attempt to reach out to a student three times per week if they are not responded. You will be paid the same as a meeting if it is noted that you have attempted contact three times.
 
 ## Keeping track of student progress
-You will be given access to a spreadsheet to keep track of all students progress. These spreadsheets will have the students contact info as well as cohort info. A sample can be seen [here](https://docs.google.com/spreadsheets/d/1wKKhIiDZirS-E0WreFyH3uHlXNae1MaD1BT9nvCkGd4/edit?usp=sharing).
+Each time you meet with a student, please [fill out this form](https://goo.gl/forms/rhmE50afUBaMdEK72). Each part of the form is required and will be saved to a spredsheet. The form is broken down into
+* Mentor Name
+* Student Name
+* Cohort
+* Weeks until their cohort starts
+* Did the student progress from the previous meeting (Mark yes for first meeting)
+* Basecamp % Complete
+* Mentor Confidence in student on a 1-10 scale
+* Notes for your meeting
 
-Please write complete and detailed notes. Things such as "Student is doing good" helps no one. Instructors and in-class mentors will rely on these notes to help assess understanding before the students start.
+The form can be filled out multiple times.
 
-**Please also mark the dates you attempted to contact or contacted your student as this will be how we track how many meetings to pay you for**
-
-You will also be added to a mentor Slack channel if you need anything from your other mentors.
+Please write complete and detailed notes. Things such as "Student is doing good" helps no one. Other Basecamp mentors, instructors and in-class mentors will rely on these notes to help assess understanding before the students start.
 
 ## Student progress
 
@@ -142,7 +138,7 @@ We will be giving students 6 weeks to complete Basecamp. We anticipate this will
 ## Mentor FAQ
 **When will I be paid for Basecamp?**
 
-Payment will be submitted for approval the Monday after the Basecamp session has ended. Once it is approved it will then be paid out the following payday.
+Basecamp pay between Monday - Friday, 9-5 will paid with your normal pay. Any work done outside those times will be paid once a month at the end of the month.
 
 **Can I text and call my students?**
 
