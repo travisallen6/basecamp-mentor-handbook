@@ -30,8 +30,6 @@ If for any reason you are unable to make your shift, please let Bryan Smith (@br
 ### Scheduling Meetings
 * A Basecamp Calendar can be viewed [here](https://calendar.google.com/calendar/b/3?cid=YmFzZWNhbXBAZGV2bW91bnRhLmlu). Students will sign up up for Basecamp meetings at this [Calendly link](https://calendly.com/basecamp-meeting/basecamp-one-on-one) and the meeting will then show on the shared Calendar
 
-These are just a few that are the most popular but feel free to use other tools to run your meetings.
-
 ## Goals
 
 The main goals for Basecamp meetings are as follows: 
@@ -44,7 +42,7 @@ The main goals for Basecamp meetings are as follows:
 
 ## Payment
 
-You will be compensated for your meetings with students. Mentors will be paid at their regular hourly rate as long as the time they are working is Monday - Friay, 9-5. Outside hours will be paid out at the end of the month
+You will be compensated for your meetings with students. Mentors will be paid at their regular hourly rate as long as the time they are working is Monday - Friay, 9-5
 
 
 ## Keeping track of student progress
