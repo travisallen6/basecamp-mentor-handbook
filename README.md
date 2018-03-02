@@ -23,7 +23,7 @@ There are a number of tools you can use to meet with your students. Here is a sm
 * [repl.it](https://repl.it/)
 
 ### Shifts
-You can view a template of the Basecamp shift signup [here](https://docs.google.com/spreadsheets/d/1cqDOEMvpt6gT-9C3wCoOQ7Rs1CK0yT6_sXsBs1CQZjM/edit?usp=sharing). Shifts are twice a day Monday - Friday from 9A-12P and 2P-5P and once on Saturday from 11A-P.
+You can view a template of the Basecamp shift signup [here](https://docs.google.com/spreadsheets/d/1cqDOEMvpt6gT-9C3wCoOQ7Rs1CK0yT6_sXsBs1CQZjM/edit?usp=sharing). Shifts are twice a day Monday - Friday from 9A-12P.
 
 If for any reason you are unable to make your shift, please let Bryan Smith (@bryan_smith on slack) know immediately.
 
