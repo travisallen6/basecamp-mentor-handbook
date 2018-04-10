@@ -6,7 +6,7 @@
 
  Basecamp is provided to students to help them set a pattern of accountability which will lead to success. Basecamp will replicate what the students will experience once they are attending DevMountain in person or online. We will cover HTML, CSS, JavaScript and even dip our toes in React and Node. We will also cover more basic things like picking a text editor and creating a usable file structure.
 
-As mentors to Basecamp students, you will be some of their first point-of-contact to all things at DevMountain. It is expected that you will meet with each student for 30 minutes a week for six weeks. This contact would ideally happen outside of your regular work/class.
+As mentors to Basecamp students, you will be some of their first point-of-contact to all things at DevMountain. It is expected that you will meet with each student for 30 minutes a week for six weeks. As a Basecamp-only mentor, feel free to schedule these meetings when works for you and the student.
 
 **Please keep all meetings professional**
 
@@ -53,26 +53,24 @@ The main goals for Basecamp meetings are as follows:
 
 ## Payment
 
-You will be compensated for your meetings with students. Each meeting you will be paid $16.50. This equates to about $100 per student for the six weeks. These meetings should be on average 30 minutes. If meetings are continually running longer, please let me know.
+You will be compensated for your meetings with students. Each meeting you will be paid $16.50. This equates to about $100 per student for the six weeks. These meetings should be on average 30 minutes. If meetings are continually running longer, please contact Bryan Smith.
 
 It is expected that you attempt to reach out to a student three times per week if they are not responded. You will be paid the same as a meeting if it is noted that you have attempted contact three times.
 
 ## Keeping track of student progress
-You will be given access to a spreadsheet to keep track of all students progress. These spreadsheets will have the students contact info as well as cohort info. A sample can be seen [here](https://docs.google.com/spreadsheets/d/1wKKhIiDZirS-E0WreFyH3uHlXNae1MaD1BT9nvCkGd4/edit?usp=sharing).
+You will be given access to this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeTidf7QtKbsbQRIzW7bIbEkyy3Ta9tr63EHYqVwPil4oSl5w/viewform). Please use this for each meeting as it will be compiled to a master spreadsheet.
 
 Please write complete and detailed notes. Things such as "Student is doing good" helps no one. Instructors and in-class mentors will rely on these notes to help assess understanding before the students start.
 
-**Please also mark the dates you attempted to contact or contacted your student as this will be how we track how many meetings to pay you for**
-
-You will also be added to a mentor Slack channel if you need anything from your other mentors.
+**Please also make note of the dates you attempted to contact or contacted your student as this will be how we track how many meetings to pay you for**
 
 ## Student progress
 
-It is expected that students should progress through Basecamp. If you see that your student has stalled, please let me know ASAP so we can remedy the problem.
+It is expected that students should progress through Basecamp. If you see that your student has stalled, please let Bryan Smith know ASAP so we can remedy the problem.
 
 While completion of Basecamp has a very high priority, student comprehension is the most important. That is why weekly meetings with you the mentor are mandatory.
 
-If you are having a difficult time contacting a student, please let me know so we can have myself or Admissions contact them to let them know their in-class spot may be in jeopardy.
+If you are having a difficult time contacting a student, please let Bryan Smith know so we can have him or Admissions contact the student to let them know their in-class spot may be in jeopardy.
 
 ## Curriculum Schedule
 
@@ -118,6 +116,97 @@ Students may progress through the Basecamp modules at different paces but a good
     * Intermediate HTML & CSS
     * Stretch Project III
 
+### Weekly Questions for Student
+
+Every single Basecamp meeting should include some form of coding from the student. If a student expresses they understand a topic, have them share their screen and demonstrate it.
+
+Here is a sample list of questions that you should ask a student each time you meet with them depending on their progress.
+
+* **Week One**
+
+* Do you have VSCode Installed?
+* Do you have git installed?
+* Open up terminal and use cd, mkdir & touch
+
+* **Week Two**
+
+* HTML & CSS
+    * How do you style HTML files?
+    * How do you use a link tag in HTML?
+    * What is the difference between class and ID?
+* Variables & Data Types
+    * What is a variable?
+    * How do you declare variables?
+    * What are data types?
+    * How many data types can you name?
+* Operators
+    * When should you use an operator?
+    * Have student name all the operators you can
+* Conditionals
+    * When would you use a conditional?
+    * Have student nest conditionals
+* Functions
+    * What are functions?
+    * How do you declare functions?
+    * Difference between arguments and parameters?
+
+**Week Three**
+
+* Did you complete stretch project and send it to basecamp@devmountain.com?
+* Scope
+    * What is scope?
+    * What is the difference between global and local scope?
+* Objects
+    * Have student create an object
+    * Add to an object using bracket and dot
+* Methods
+    * What are methods?
+    * Invoke a method
+
+**Week Four**
+
+ * Arrays
+    * What are arrays?
+    * Can arrays hold different data types?
+    * Can you add to arrays?
+* Array Prototypes
+    * How would you add to an array?
+       * How would you make a copy of an array?
+    * Name as many array prototypes as you can
+* Loops
+     * When would we use a loop?
+     * Create a for loop
+     * Talk about using var/let when declaring for loop
+* Did you complete stretch project II and send it to basecamp@devmountain.com?
+
+**Week Five**
+
+* Arrow Functions
+    * Have student create an arrow function
+    * Have student talk about implied return
+    * Have student talk about when to use arrow functions
+* Callbacks
+    * What is a callback?
+    * When will we use a callback?
+    * Have student demo callback
+* Classes
+    * What is a class?
+    * Have student create a class
+    * Talk about class/function based classes
+
+**Week Six**
+
+* Node & npm
+    * Is Node installed?
+* Import Statements
+    * When would we use an import statement?
+    * What is the es5< syntax to include something
+* Basic React
+    * Is create-react-app installed?
+* Intermediate HTML & CSS
+* Answer any questions the student may have
+* Did you complete stretch project III and send it to basecamp@devmountain.com?
+
 ## Student FAQs
 **What is Basecamp?**
 
@@ -151,3 +240,13 @@ Go for it. Ideally, communication will be kept through email but if they aren't 
 **My student isn't responding to me, what should I do?**
 
 If you go more than a week without hearing from your student, please reach out to me ASAP so we can remedy the problem.
+
+**My student hasn't shown up for our meeting?**
+
+I generally have an email ready to go that goes like this: 
+
+"Hello STUDENT,
+
+We have a meeting scheduled for right now. You can join me at this Google Hangout link: LINK_TO_GOOGLE_HANGOUT
+
+"
