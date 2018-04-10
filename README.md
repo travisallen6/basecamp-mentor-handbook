@@ -1,6 +1,6 @@
 <img src="http://devmtnclass.s3.amazonaws.com/images/devmountain_logo_blacktext.png" width="250" align="right">
 
-#Basecamp Mentor Guide
+# Basecamp Mentor Guide
 
 ## Overview
 
