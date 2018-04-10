@@ -112,6 +112,97 @@ Students may progress through the Basecamp modules at different paces but a good
     * Intermediate HTML & CSS
     * Stretch Project III
 
+    ### Weekly Questions for Student
+
+Every single Basecamp meeting should include some form of coding from the student. If a student expresses they understand a topic, have them share their screen and demonstrate it.
+
+Here is a sample list of questions that you should ask a student each time you meet with them depending on their progress.
+
+* **Week One**
+
+* Do you have VSCode Installed?
+* Do you have git installed?
+* Open up terminal and use cd, mkdir & touch
+
+* **Week Two**
+
+* HTML & CSS
+    * How do you style HTML files?
+    * How do you use a link tag in HTML?
+    * What is the difference between class and ID?
+* Variables & Data Types
+    * What is a variable?
+    * How do you declare variables?
+    * What are data types?
+    * How many data types can you name?
+* Operators
+    * When should you use an operator?
+    * Have student name all the operators you can
+* Conditionals
+    * When would you use a conditional?
+    * Have student nest conditionals
+* Functions
+    * What are functions?
+    * How do you declare functions?
+    * Difference between arguments and parameters?
+
+**Week Three**
+
+* Did you complete stretch project and send it to basecamp@devmountain.com?
+* Scope
+    * What is scope?
+    * What is the difference between global and local scope?
+* Objects
+    * Have student create an object
+    * Add to an object using bracket and dot
+* Methods
+    * What are methods?
+    * Invoke a method
+
+**Week Four**
+
+ * Arrays
+    * What are arrays?
+    * Can arrays hold different data types?
+    * Can you add to arrays?
+* Array Prototypes
+    * How would you add to an array?
+       * How would you make a copy of an array?
+    * Name as many array prototypes as you can
+* Loops
+     * When would we use a loop?
+     * Create a for loop
+     * Talk about using var/let when declaring for loop
+* Did you complete stretch project II and send it to basecamp@devmountain.com?
+
+**Week Five**
+
+* Arrow Functions
+    * Have student create an arrow function
+    * Have student talk about implied return
+    * Have student talk about when to use arrow functions
+* Callbacks
+    * What is a callback?
+    * When will we use a callback?
+    * Have student demo callback
+* Classes
+    * What is a class?
+    * Have student create a class
+    * Have student use constructor method
+
+**Week Six**
+
+* Node & npm
+    * Is Node installed?
+* Import Statements
+    * When would we use an import statement?
+    * What is the es5< syntax to include something
+* Basic React
+    * Is create-react-app installed?
+* Intermediate HTML & CSS
+* Answer any questions the student may have
+* Did you complete stretch project III and send it to basecamp@devmountain.com?
+
 ## Student FAQs
 **What is Basecamp?**
 
