@@ -52,7 +52,6 @@ Each time you meet with a student, please [fill out this form](https://goo.gl/fo
 * Cohort
 * Weeks until their cohort starts
 * Did the student progress from the previous meeting (Mark yes for first meeting)
-* Basecamp % Complete
 * Mentor Confidence in student on a 1-10 scale
 * Notes for your meeting
 
