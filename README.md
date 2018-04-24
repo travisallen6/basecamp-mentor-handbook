@@ -209,8 +209,7 @@ Basecamp is a set of pre-course material for students before they attend DevMoun
 
 **Will I have help during Basecamp?**
 
-Absolutely! Learning to code can be difficult and we want to make this process as seamless as possible. Students will have access to weekly meetings with mentors to cover anything that might still be a little fuzzy. There will also be twice-weekly live QA/Review sessions where students will get to put what they have learned into practice. These QA/Review sessions will be recorded for later viewing as well.
-
+Absolutely! Learning to code can be difficult and we want to make this process as seamless as possible. Students will have access to weekly meetings with mentors to cover anything that might still be a little fuzzy.
 **Does Basecamp cost anything**
 
 Basecamp is provided at no additional cost to students. This is totally free with the cost of their tuition. We will be requiring that students do meet weekly with their Basecamp mentor to keep their in-class spot.
